@@ -1,0 +1,14 @@
+body{
+    background-color: deepskyblue;
+    font-family: "roboto", sans-serif;
+}
+h1{
+    text-align: center;
+}
+p{
+ color: black;
+}
+img{
+    display: block;
+    margin:auto;
+    width: 70%;
